@@ -1,0 +1,86 @@
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.exe.config
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.exe
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.pdb
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.AssemblyReference.cache
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.SuggestedBindingRedirects.cache
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Login.resources
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Properties.Resources.resources
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SignUp.resources
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.GenerateResource.cache
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.CoreCompileInputs.cache
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.exe
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.pdb
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SignUp2.resources
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Start.resources
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.ForgetPassword.resources
+C:\Users\talal\Documents\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.PayMatic.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.exe.config
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.exe
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.pdb
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.AssemblyReference.cache
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.SuggestedBindingRedirects.cache
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.ForgetPassword.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.PayMatic.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Login.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Properties.Resources.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SignUp.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SignUp2.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.GenerateResource.cache
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.CoreCompileInputs.cache
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.exe
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.pdb
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Changed.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AdminDash.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AdminHome.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EmployeeData.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.About.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Business.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.News.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AddNews.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Edit.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EditData.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EditLeaves.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EditSalary.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Employee.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Attendance.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.GeneralInfo.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.DisplayNews.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EmployeeNews.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SalarySlip.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Leaves.resources
+C:\Games\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AvailLeaves.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.exe.config
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.exe
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\bin\Debug\Project Intro To SE.pdb
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.AssemblyReference.cache
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.SuggestedBindingRedirects.cache
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.About.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AddNews.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AdminDash.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AdminHome.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Attendance.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.AvailLeaves.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Business.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Changed.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.DisplayNews.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Edit.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EditData.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EditLeaves.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EditSalary.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Employee.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EmployeeData.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.EmployeeNews.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.ForgetPassword.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.GeneralInfo.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.PayMatic.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Leaves.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Login.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.News.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.Properties.Resources.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SalarySlip.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SignUp.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project_Intro_To_SE.SignUp2.resources
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.GenerateResource.cache
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.csproj.CoreCompileInputs.cache
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.exe
+C:\Users\talal\Documents\New folder\Semester 2 Projects\Project Intro To SE\Project Intro To SE\obj\Debug\Project Intro To SE.pdb
